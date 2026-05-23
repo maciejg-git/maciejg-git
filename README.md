@@ -4,7 +4,7 @@ Vue, React, Alpine and JS enthusiast. Preferably in [Neovim](https://neovim.io/)
 
 Currently looking for a full time JS job.
 
-### VUE
+## VUE
 
 #### vue-icon-browser
 
@@ -72,7 +72,7 @@ vue-datepicker-documentation
 
 ---
 
-### React
+## React
 
 #### metaltube
 
@@ -87,7 +87,7 @@ vue-datepicker-documentation
 
 ---
 
-### Alpine
+## Alpine
 
 #### simple-analytics-dashboard
 
@@ -119,7 +119,7 @@ litewind-alpine-documentation
 
 ---
 
-### Backend
+## Backend
 
 #### ytplay-koa
 
@@ -127,7 +127,7 @@ litewind-alpine-documentation
 
 ---
 
-### JS
+## JS
 
 #### simple-analytics
 
