@@ -6,7 +6,7 @@ Currently looking for a full time JS job.
 
 ### VUE
 
-- vue-icon-browser
+- [vue-icon-browser](https://github.com/maciejg-git/vue-icon-browser)
 - yt-play
 - litewind-vue
   - litewind-vue-test
