@@ -41,5 +41,5 @@ Currently looking for a full time JS job.
 - simple-analytics
 - vue-icons
 - use-validation
-- vue-use-animate
+- use-animate
   - vue-use-animate-examples
