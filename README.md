@@ -42,4 +42,4 @@ Currently looking for a full time JS job.
 - vue-icons
 - use-validation
 - use-animate
-  - vue-use-animate-examples
+  - use-animate-examples
