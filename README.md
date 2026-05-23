@@ -60,9 +60,10 @@ vue-datepicker-documentation
 
 ## React
 
-#### japan-react
+#### kigasuru
 
-[https://github.com/maciejg-git/japan-react](https://github.com/maciejg-git/japan-react)
+[https://github.com/maciejg-git/kigasuru](https://github.com/maciejg-git/kigasuru)
+[https://kigasuru.netlify.app/](https://kigasuru.netlify.app/)
 
 #### metaltube
 
