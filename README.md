@@ -70,8 +70,6 @@ vue-datepicker-documentation
 
 [https://github.com/maciejg-git/metaltube](https://github.com/geonames)
 
----
-
 ## React
 
 #### metaltube
@@ -84,8 +82,6 @@ vue-datepicker-documentation
 #### japan-react
 
 [https://github.com/maciejg-git/metaltube](https://github.com/maciejg-git/japan-react)
-
----
 
 ## Alpine
 
@@ -117,15 +113,11 @@ litewind-alpine-documentation
 [https://github.com/maciejg-git/metaltube](https://github.com/maciejg-git/alpine-transition-tool)
 [https://alpine-transition-tool.netlify.app/](https://alpine-transition-tool.netlify.app/]
 
----
-
 ## Backend
 
 #### ytplay-koa
 
 [https://github.com/maciejg-git/metaltube](https://github.com/maciejg-git/ytplay-koa)
-
----
 
 ## JS
 
