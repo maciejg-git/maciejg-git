@@ -6,16 +6,6 @@ Currently looking for a full time JS job.
 
 ## VUE
 
-#### vue-icon-browser
-
-[https://github.com/maciejg-git/metaltube](https://github.com/maciejg-git/vue-icon-browser)
-
-[https://iconbrowser.netlify.app/](https://iconbrowser.netlify.app/)
-
-#### yt-play
-
-[https://github.com/maciejg-git/metaltube](https://github.com/maciejg-git/yt-play)
-
 #### litewind-vue
 
 [https://github.com/maciejg-git/metaltube](https://github.com/maciejg-git/litewind-vue)
@@ -26,9 +16,23 @@ litewind-vue-test
 
 [https://vue-litewind-test.netlify.app/](https://vue-litewind-test.netlify.app/)
 
+#### vue-icon-browser
+
+[https://github.com/maciejg-git/metaltube](https://github.com/maciejg-git/vue-icon-browser)
+
+[https://iconbrowser.netlify.app/](https://iconbrowser.netlify.app/)
+
+#### yt-play
+
+[https://github.com/maciejg-git/metaltube](https://github.com/maciejg-git/yt-play)
+
 #### geonames-map
 
 [https://github.com/maciejg-git/metaltube](https://github.com/maciejg-git/geonames-map)
+
+#### viewership-dashboard
+
+[https://github.com/maciejg-git/metaltube](https://github.com/maciejg-git/viewership-dashboard)
 
 #### vue-use-floating
 
@@ -50,15 +54,15 @@ vue-datepicker-documentation
 
 [https://github.com/maciejg-git/metaltube](https://github.com/maciejg-git/vue-tailwind-grid)
 
-#### viewership-dashboard
-
-[https://github.com/maciejg-git/metaltube](https://github.com/maciejg-git/viewership-dashboard)
-
 #### geonames
 
 [https://github.com/maciejg-git/metaltube](https://github.com/geonames)
 
 ## React
+
+#### japan-react
+
+[https://github.com/maciejg-git/metaltube](https://github.com/maciejg-git/japan-react)
 
 #### metaltube
 
@@ -66,24 +70,7 @@ vue-datepicker-documentation
 
 [https://mtl-tube.netlify.app/](https://mtl-tube.netlify.app/)
 
-#### japan-react
-
-[https://github.com/maciejg-git/metaltube](https://github.com/maciejg-git/japan-react)
-
 ## Alpine
-
-#### simple-analytics-dashboard
-
-[https://github.com/maciejg-git/metaltube](https://github.com/maciejg-git/simple-analytics-dashboard)
-
-[https://simple-analytics-dashboard.netlify.app/](https://simple-analytics-dashboard.netlify.app/)
-
-#### alpine-remote-component-plugin
-
-[https://github.com/maciejg-git/metaltube](https://github.com/maciejg-git/alpine-remote-component-plugin
-)
-
-[https://alpine-remote-component.netlify.app](https://alpine-remote-component.netlify.app)
 
 #### litewind-alpine
 
@@ -92,6 +79,19 @@ vue-datepicker-documentation
 litewind-alpine-documentation
 
 [https://litewind-alpine.netlify.app/documentation/introduction/](https://litewind-alpine.netlify.app/documentation/introduction/)
+
+#### alpine-remote-component-plugin
+
+[https://github.com/maciejg-git/metaltube](https://github.com/maciejg-git/alpine-remote-component-plugin
+)
+
+[https://alpine-remote-component.netlify.app](https://alpine-remote-component.netlify.app)
+
+#### simple-analytics-dashboard
+
+[https://github.com/maciejg-git/metaltube](https://github.com/maciejg-git/simple-analytics-dashboard)
+
+[https://simple-analytics-dashboard.netlify.app/](https://simple-analytics-dashboard.netlify.app/)
 
 #### alpine-transition-tool
 
@@ -107,13 +107,13 @@ litewind-alpine-documentation
 
 ## JS
 
-#### simple-analytics
-
-[https://github.com/maciejg-git/metaltube](https://github.com/maciejg-git/simple-analytics)
-
 #### vue-icons
 
 [https://github.com/maciejg-git/metaltube](https://github.com/maciejg-git/vue-icons)
+
+#### simple-analytics
+
+[https://github.com/maciejg-git/metaltube](https://github.com/maciejg-git/simple-analytics)
 
 #### use-validation
 
